@@ -1,6 +1,6 @@
 import ClerkProivderWithRoutes from './auth/ClerkProviderWithRoutes.jsx'
 import {Routes, Route} from 'react-router-dom'
-import { Layout } from './layout/Layout.jsx'
+import {Layout} from "./layout/Layout.jsx"
 import { ChallengeGeneratr } from './challenge/ChallengeGeneratr.jsx'
 import { HistoryPanel } from './history/HistoryPanel.jsx'
 import { AuthenticationPage } from './auth/AuthenticationPage.jsx'
